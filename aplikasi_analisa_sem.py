@@ -67,7 +67,7 @@ st.sidebar.markdown("""
 st.sidebar.markdown("""
 <div style="background-color: #EFF6FF; border: 1px solid #BFDBFE; padding: 12px; border-radius: 8px; margin-bottom: 20px;">
     <p style="margin: 0; font-size: 11px; color: #1E40AF; font-weight: bold; text-transform: uppercase;">Penyusun:</p>
-    <p style="margin: 0; font-size: 14px; color: #1E3A8A; font-weight: 800;">M Nasri AW | Pengembang Aplikasi</p>
+    <p style="margin: 0; font-size: 14px; color: #1E3A8A; font-weight: 800;">M Nasri AW | Pengembang Aplikasi, CB-SEM v2.0 @2026</p>
     <p style="margin: 0; font-size: 11px; color: #4B5563;"> Dosen STIE Indonesia Malang</p>
 </div>
 """, unsafe_allow_html=True)
