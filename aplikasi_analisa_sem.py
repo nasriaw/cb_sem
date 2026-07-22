@@ -58,7 +58,7 @@ st.markdown("""
 # Sidebar Header
 st.sidebar.markdown("""
 <div style="text-align: center; padding-bottom: 10px;">
-    <h1 style="color: #1E3A8A; margin-bottom: 0;">📊 Analisa Covariance-Based Structural Equation Modeling (CB-SEM),v2.0 @2026</h1>
+    <h1 style="color: #1E3A8A; margin-bottom: 0;">📊 Analisis Multivariate Covariance-Based Structural Equation Modeling (CB-SEM),v2.0 @2026</h1>
     <p style="font-size: 14px; color: #6B7280; font-weight: bold;">CB-SEM menggunakan data cukup besar (N>=100-200). Pelajari kapan menggunakan Covariance Based (CB-SEM) atau Partial Least Squares (PLS-SEM). Pelajari Panduan Cara Menggunakan Aplikasi</p>
 </div>
 """, unsafe_allow_html=True)
@@ -66,9 +66,9 @@ st.sidebar.markdown("""
 # Identitas Penyusun
 st.sidebar.markdown("""
 <div style="background-color: #EFF6FF; border: 1px solid #BFDBFE; padding: 12px; border-radius: 8px; margin-bottom: 20px;">
-    <p style="margin: 0; font-size: 11px; color: #1E40AF; font-weight: bold; text-transform: uppercase;">Penyusun:</p>
-    <p style="margin: 0; font-size: 14px; color: #1E3A8A; font-weight: 800;">M Nasri AW | Pengembang Aplikasi, CB-SEM v2.0 @2026</p>
-    <p style="margin: 0; font-size: 11px; color: #4B5563;"> Dosen STIE Indonesia Malang</p>
+    <p style="margin: 0; font-size: 14px; color: #1E40AF; font-weight: bold; text-transform: uppercase;">Penyusun:</p>
+    <p style="margin: 0; font-size: 16px; color: #1E3A8A; font-weight: 800;">M Nasri AW | Pengembang Aplikasi, CB-SEM v2.0 @2026</p>
+    <p style="margin: 0; font-size: 16px; color: #4B5563;"> Dosen STIE Indonesia Malang</p>
 </div>
 """, unsafe_allow_html=True)
 
