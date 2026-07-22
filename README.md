@@ -1,4 +1,4 @@
-# 📊 Aplikasi SEM-IMA: Template Analisa SEM Sederhana
+# 📊 Analisis Multivariate Metode Covariance-Based SEM (CB-SEM) v2.0
 > **Platform Interaktif Analisis Structural Equation Modeling (SEM) Berbasis Python & Streamlit**
 
 Developed for Academic and Research Purposes at **STIE Indonesia Malang (STIEIMA)**.
@@ -6,7 +6,7 @@ Developed for Academic and Research Purposes at **STIE Indonesia Malang (STIEIMA
 ---
 
 ## 📌 Identitas Penyusun
-* **Penyusun**: Ir. M Nasri AW, M.Eng.Sc, M.Kom
+* **Penyusun**: Ir. M Nasri AW, M.Eng.Sc, M.Kom | Dosen Aplikom STatistika
 * **Institusi**: STIE Indonesia Malang (STIEIMA)
 * **Lisensi**: Open Source / Academic Free Use
 
