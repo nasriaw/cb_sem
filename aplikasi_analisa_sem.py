@@ -150,7 +150,7 @@ st.sidebar.download_button(
 #st.markdown('<div class="main-header">Platform Otomatisasi Pengujian #Hipotesis, Fitting Model dan Narasi Output Akademik</div>', unsafe_allow_html=True)
 #st.markdown('<div class="sub-header">Berbasis <code>semopy</code> Python</div>', unsafe_allow_html=True)
 st.markdown('<h1 class="main-header">Platform Otomatisasi Pengujian Hipotesis, Fitting Model dan Narasi Output Akademik</h1>', unsafe_allow_html=True)
-st.markdown('<p class="sub-header"Berbasis <code>semopy</code> Python</p>', unsafe_allow_html=True)
+st.markdown('<p class="sub-header">Berbasis <code>semopy</code> Python — Release v2.0 @2026</p>', unsafe_allow_html=True)
 
 # Panduan Alur Kerja Aplikasi
 with st.expander("📖 Panduan Cara Menggunakan Aplikasi", expanded=False):
