@@ -65,7 +65,7 @@ st.markdown("""
 # Sidebar Header
 st.sidebar.markdown("""
 <div style="text-align: center; padding-bottom: 10px;">
-    <h1 style="color: #1E3A8A; margin-bottom: 0;">📊 Analisis Multivariate Metode Covariance-Based SEM (CB-SEM) v2.0</h1>
+    <h1 style="color: #1E3A8A; margin-bottom: 0;">📊 Analisis Multivariate Metode Covariance-Based Structural Equation Modeling (CB-SEM) v2.0 2026</h1>
     <p style="font-size: 13px; color: #6B7280; font-weight: bold;">Pemodelan SEM berbasis semopy Python @2026</p>
 </div>
 """, unsafe_allow_html=True)
