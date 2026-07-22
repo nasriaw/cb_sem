@@ -1,4 +1,4 @@
-# 📊 Aplikasi SEM-IMA: Analisis Structural Equation Modeling (CB-SEM)
+# 📊 Analisis Multivariate Metode Covariance-Based SEM (CB-SEM) v2.0
 > **Platform Interaktif Analisis Structural Equation Modeling (CB-SEM) Berbasis Python & Streamlit**
 
 Developed for Academic and Research Purposes at **STIE Indonesia Malang (STIEIMA)**.
